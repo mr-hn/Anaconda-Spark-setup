@@ -8,3 +8,4 @@
 * Installing [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * Setup Spark on the local machine
 * Execute simple Spark jobs
+ 
