@@ -54,4 +54,4 @@ The linux commands provided below are all for Debian based distros.
       
   Source the .bashrc file
   
-  Running `pyspark` command should now open a Jupyter notebook where you can run Pyspark.
+  Running `pyspark` command should now open a Jupyter notebook where you can run Pyspark. 
